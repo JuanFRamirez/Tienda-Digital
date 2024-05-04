@@ -82,5 +82,8 @@ html, body {
     border-radius: 25px;
     color: #A0153E;
     text-decoration: none;
-    margin-top: 50px;
+    margin-top: 2rem;
+}
+.darkred{
+    color: #A0153E;
 }
